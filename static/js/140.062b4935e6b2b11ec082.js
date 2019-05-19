@@ -1,0 +1,1 @@
+webpackJsonp([140],{1539:function(n,t){n.exports={render:function(){var n=this,t=n.$createElement;return(n._self._c||t)("div",{staticStyle:{"text-align":"center","font-size":"25px",margin:"80px auto",color:"#606266"}},[n._v("\n  当前项目没有配置系统\n")])},staticRenderFns:[]}},631:function(n,t,e){var r=e(38)(null,e(1539),null,null);n.exports=r.exports}});
